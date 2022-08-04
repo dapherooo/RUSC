@@ -1,2 +1,3 @@
 # RUSC 
-# <p>Make You event and see You Schedule with RUSC (Remember U Sechedule)<\p>
+# Make You event and see You Schedule with RUSC (Remember U Sechedule)
+# RUSC (Remember U Sechedule)
