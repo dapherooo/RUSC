@@ -8,3 +8,5 @@ Make You event and see You Schedule with RUSC {{Remember U Sechedule}}
     DB_DATABASE=law
     DB_USERNAME=root
     DB_PASSWORD=root
+
+    php artisan migratrion::fresh --seed
